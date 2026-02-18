@@ -1,5 +1,0 @@
-- Git basics
-- GitHub usage
-- Branching
-- Committing
-- Project structuring using Git

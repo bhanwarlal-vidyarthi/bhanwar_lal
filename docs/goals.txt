@@ -1,3 +1,0 @@
-1. Become confident in Git and GitHub.
-2. Build a professional GitHub profile.
-3. Secure freelance or technical work using GitHub.
