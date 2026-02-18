@@ -10,9 +10,9 @@ I convert experimental data into clean, reproducible analysis and clear document
   (UV-Vis, release profiles, swelling, rheology)
 - Protocol writing & experimental documentation
 - Small R&D support in polymer/hydrogel systems
--Preparing schematic diagrams, scientific illustrations, and publication-quality plots
-
+- Preparing schematic diagrams, scientific illustrations, and publication-quality plots 
 ---
+
 
 ##  Research Experience
 - Polymeric hydrogels (drug delivery, swelling, release)
