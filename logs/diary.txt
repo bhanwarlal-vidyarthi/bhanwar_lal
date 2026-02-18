@@ -1,4 +1,0 @@
-Day 1: Created fresh Git repository and learned basic Git workflow.
-Day 2: Learned how to create a clean Git project with README, diary, goals, and skills files.
-Day 3: Learned about git add, git commit, and branch workflow.
-Practiced feature branch and safe development.
